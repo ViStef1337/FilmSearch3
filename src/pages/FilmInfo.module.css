@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+.mainPoster{
+    height: 50%;
+}
+h2{
+    text-align: left;
+}
+.info{
+    text-align: left;
+}
